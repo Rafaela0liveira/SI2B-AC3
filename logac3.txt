@@ -1,0 +1,136 @@
+2020-10-11T15:21:30.246153+00:00 heroku[web.1]: Unidling
+2020-10-11T15:21:30.275515+00:00 heroku[web.1]: State changed from down to starting
+2020-10-11T15:21:33.556060+00:00 heroku[web.1]: Starting process with command `python t8.py`
+2020-10-11T15:21:36.388696+00:00 app[web.1]: * Serving Flask app "t8" (lazy loading)
+2020-10-11T15:21:36.388722+00:00 app[web.1]: * Environment: production
+2020-10-11T15:21:36.388786+00:00 app[web.1]: WARNING: Do not use the development server in a production environment.
+2020-10-11T15:21:36.388852+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-11T15:21:36.388912+00:00 app[web.1]: * Debug mode: off
+2020-10-11T15:21:36.397090+00:00 app[web.1]: * Running on http://0.0.0.0:56428/ (Press CTRL+C to quit)
+2020-10-11T15:21:36.865666+00:00 heroku[web.1]: State changed from starting to up
+2020-10-11T15:21:38.327048+00:00 app[web.1]: 10.11.215.82 - - [11/Oct/2020 15:21:38] "GET / HTTP/1.1" 200 -
+2020-10-11T15:21:38.328282+00:00 heroku[router]: at=info method=GET path="/" host=ac03si2b.herokuapp.com request_id=57b93324-3bb7-4c61-a7fd-83e5313e6bdc fwd="64.233.172.79" dyno=web.1 connect=0ms service=6ms status=200 bytes=566 protocol=https
+2020-10-11T15:56:17.822644+00:00 heroku[web.1]: Idling
+2020-10-11T15:56:17.825342+00:00 heroku[web.1]: State changed from up to down
+2020-10-11T15:56:19.082542+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2020-10-11T15:56:19.183327+00:00 heroku[web.1]: Process exited with status 143
+2020-10-12T17:13:00.461304+00:00 heroku[web.1]: Unidling
+2020-10-12T17:13:00.463754+00:00 heroku[web.1]: State changed from down to starting
+2020-10-12T17:13:03.638682+00:00 heroku[web.1]: Starting process with command `python t8.py`
+2020-10-12T17:13:06.645670+00:00 app[web.1]: * Serving Flask app "t8" (lazy loading)
+2020-10-12T17:13:06.645692+00:00 app[web.1]: * Environment: production
+2020-10-12T17:13:06.645693+00:00 app[web.1]: WARNING: Do not use the development server in a production environment.
+2020-10-12T17:13:06.645745+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-12T17:13:06.645798+00:00 app[web.1]: * Debug mode: off
+2020-10-12T17:13:06.655071+00:00 app[web.1]: * Running on http://0.0.0.0:22323/ (Press CTRL+C to quit)
+2020-10-12T17:13:08.176547+00:00 heroku[web.1]: State changed from starting to up
+2020-10-12T17:13:09.526483+00:00 app[web.1]: 10.41.169.187 - - [12/Oct/2020 17:13:09] "GET / HTTP/1.1" 200 -
+2020-10-12T17:13:09.528560+00:00 heroku[router]: at=info method=GET path="/" host=ac03si2b.herokuapp.com request_id=cce35c0c-ecc3-4c76-95b0-5b080c45145a fwd="66.249.88.219" dyno=web.1 connect=0ms service=4ms status=200 bytes=566 protocol=https
+2020-10-12T17:47:30.787333+00:00 heroku[web.1]: Idling
+2020-10-12T17:47:30.789100+00:00 heroku[web.1]: State changed from up to down
+2020-10-12T17:47:31.678706+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2020-10-12T17:47:31.779339+00:00 heroku[web.1]: Process exited with status 143
+2020-10-17T00:17:21.254512+00:00 heroku[web.1]: Unidling
+2020-10-17T00:17:21.267509+00:00 heroku[web.1]: State changed from down to starting
+2020-10-17T00:17:24.958564+00:00 heroku[web.1]: Starting process with command `python t8.py`
+2020-10-17T00:17:27.618023+00:00 app[web.1]: * Serving Flask app "t8" (lazy loading)
+2020-10-17T00:17:27.618057+00:00 app[web.1]: * Environment: production
+2020-10-17T00:17:27.618100+00:00 app[web.1]: WARNING: Do not use the development server in a production environment.
+2020-10-17T00:17:27.618170+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-17T00:17:27.618228+00:00 app[web.1]: * Debug mode: off
+2020-10-17T00:17:27.633093+00:00 app[web.1]: * Running on http://0.0.0.0:38972/ (Press CTRL+C to quit)
+2020-10-17T00:17:28.397269+00:00 heroku[web.1]: State changed from starting to up
+2020-10-17T00:17:30.312336+00:00 app[web.1]: 10.52.10.57 - - [17/Oct/2020 00:17:30] "GET / HTTP/1.1" 200 -
+2020-10-17T00:17:30.319210+00:00 heroku[router]: at=info method=GET path="/" host=ac03si2b.herokuapp.com request_id=72679eb1-5a0d-469b-9c4a-073e1de0c1e9 fwd="66.249.88.155" dyno=web.1 connect=1ms service=5ms status=200 bytes=566 protocol=https
+2020-10-17T00:52:52.047966+00:00 heroku[web.1]: Idling
+2020-10-17T00:52:52.049805+00:00 heroku[web.1]: State changed from up to down
+2020-10-17T00:52:53.038064+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2020-10-17T00:52:53.131382+00:00 heroku[web.1]: Process exited with status 143
+2020-10-23T23:11:31.941254+00:00 heroku[web.1]: Unidling
+2020-10-23T23:11:31.954143+00:00 heroku[web.1]: State changed from down to starting
+2020-10-23T23:11:35.472588+00:00 heroku[web.1]: Starting process with command `python t8.py`
+2020-10-23T23:11:37.814511+00:00 app[web.1]: * Serving Flask app "t8" (lazy loading)
+2020-10-23T23:11:37.814582+00:00 app[web.1]: * Environment: production
+2020-10-23T23:11:37.814691+00:00 app[web.1]: WARNING: Do not use the development server in a production environment.
+2020-10-23T23:11:37.814795+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-23T23:11:37.814870+00:00 app[web.1]: * Debug mode: off
+2020-10-23T23:11:37.828040+00:00 app[web.1]: * Running on http://0.0.0.0:57481/ (Press CTRL+C to quit)
+2020-10-23T23:11:38.338474+00:00 heroku[web.1]: State changed from starting to up
+2020-10-23T23:11:39.030236+00:00 heroku[router]: at=info method=GET path="/" host=ac03si2b.herokuapp.com request_id=e62e4a80-ee1e-4c7f-b5cb-cd64f2d38f0c fwd="66.249.88.208" dyno=web.1 connect=0ms service=16ms status=200 bytes=566 protocol=https
+2020-10-23T23:11:39.034108+00:00 app[web.1]: 10.29.86.227 - - [23/Oct/2020 23:11:39] "GET / HTTP/1.1" 200 -
+2020-10-23T23:11:40.290806+00:00 app[web.1]: 10.16.178.50 - - [23/Oct/2020 23:11:40] "GET / HTTP/1.1" 200 -
+2020-10-23T23:11:40.292404+00:00 heroku[router]: at=info method=GET path="/" host=ac03si2b.herokuapp.com request_id=782bc50a-4aff-4a8c-9239-8303b9d6c526 fwd="66.249.83.61" dyno=web.1 connect=0ms service=5ms status=200 bytes=566 protocol=https
+2020-10-23T23:12:17.422277+00:00 app[web.1]: 10.52.12.238 - - [23/Oct/2020 23:12:17] "GET / HTTP/1.1" 200 -
+2020-10-23T23:12:17.423540+00:00 heroku[router]: at=info method=GET path="/" host=ac03si2b.herokuapp.com request_id=7e81105d-02aa-44b2-a5f4-3a0cc33e0cdc fwd="45.70.224.104" dyno=web.1 connect=0ms service=5ms status=200 bytes=566 protocol=https
+2020-10-23T23:12:17.821268+00:00 app[web.1]: 10.52.12.238 - - [23/Oct/2020 23:12:17] "GET /favicon.ico HTTP/1.1" 404 -
+2020-10-23T23:12:17.822327+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=ac03si2b.herokuapp.com request_id=d8fab2e0-5017-479f-b2eb-b107d3168504 fwd="45.70.224.104" dyno=web.1 connect=0ms service=20ms status=404 bytes=379 protocol=https
+2020-10-23T23:17:44.324686+00:00 heroku[router]: at=info method=GET path="/" host=ac03si2b.herokuapp.com request_id=2f7a2ae9-3c9a-4c35-9cd1-40fd8a8fa1b4 fwd="45.70.224.104" dyno=web.1 connect=1ms service=9ms status=200 bytes=566 protocol=https
+2020-10-23T23:17:44.328285+00:00 app[web.1]: 10.93.170.169 - - [23/Oct/2020 23:17:44] "GET / HTTP/1.1" 200 -
+2020-10-11T15:21:30.246153+00:00 heroku[web.1]: Unidling
+2020-10-11T15:21:30.275515+00:00 heroku[web.1]: State changed from down to starting
+2020-10-11T15:21:33.556060+00:00 heroku[web.1]: Starting process with command `python t8.py`
+2020-10-11T15:21:36.388696+00:00 app[web.1]: * Serving Flask app "t8" (lazy loading)
+2020-10-11T15:21:36.388722+00:00 app[web.1]: * Environment: production
+2020-10-11T15:21:36.388786+00:00 app[web.1]: WARNING: Do not use the development server in a production environment.
+2020-10-11T15:21:36.388852+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-11T15:21:36.388912+00:00 app[web.1]: * Debug mode: off
+2020-10-11T15:21:36.397090+00:00 app[web.1]: * Running on http://0.0.0.0:56428/ (Press CTRL+C to quit)
+2020-10-11T15:21:36.865666+00:00 heroku[web.1]: State changed from starting to up
+2020-10-11T15:21:38.327048+00:00 app[web.1]: 10.11.215.82 - - [11/Oct/2020 15:21:38] "GET / HTTP/1.1" 200 -
+2020-10-11T15:21:38.328282+00:00 heroku[router]: at=info method=GET path="/" host=ac03si2b.herokuapp.com request_id=57b93324-3bb7-4c61-a7fd-83e5313e6bdc fwd="64.233.172.79" dyno=web.1 connect=0ms service=6ms status=200 bytes=566 protocol=https
+2020-10-11T15:56:17.822644+00:00 heroku[web.1]: Idling
+2020-10-11T15:56:17.825342+00:00 heroku[web.1]: State changed from up to down
+2020-10-11T15:56:19.082542+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2020-10-11T15:56:19.183327+00:00 heroku[web.1]: Process exited with status 143
+2020-10-12T17:13:00.461304+00:00 heroku[web.1]: Unidling
+2020-10-12T17:13:00.463754+00:00 heroku[web.1]: State changed from down to starting
+2020-10-12T17:13:03.638682+00:00 heroku[web.1]: Starting process with command `python t8.py`
+2020-10-12T17:13:06.645670+00:00 app[web.1]: * Serving Flask app "t8" (lazy loading)
+2020-10-12T17:13:06.645692+00:00 app[web.1]: * Environment: production
+2020-10-12T17:13:06.645693+00:00 app[web.1]: WARNING: Do not use the development server in a production environment.
+2020-10-12T17:13:06.645745+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-12T17:13:06.645798+00:00 app[web.1]: * Debug mode: off
+2020-10-12T17:13:06.655071+00:00 app[web.1]: * Running on http://0.0.0.0:22323/ (Press CTRL+C to quit)
+2020-10-12T17:13:08.176547+00:00 heroku[web.1]: State changed from starting to up
+2020-10-12T17:13:09.526483+00:00 app[web.1]: 10.41.169.187 - - [12/Oct/2020 17:13:09] "GET / HTTP/1.1" 200 -
+2020-10-12T17:13:09.528560+00:00 heroku[router]: at=info method=GET path="/" host=ac03si2b.herokuapp.com request_id=cce35c0c-ecc3-4c76-95b0-5b080c45145a fwd="66.249.88.219" dyno=web.1 connect=0ms service=4ms status=200 bytes=566 protocol=https
+2020-10-12T17:47:30.787333+00:00 heroku[web.1]: Idling
+2020-10-12T17:47:30.789100+00:00 heroku[web.1]: State changed from up to down
+2020-10-12T17:47:31.678706+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2020-10-12T17:47:31.779339+00:00 heroku[web.1]: Process exited with status 143
+2020-10-17T00:17:21.254512+00:00 heroku[web.1]: Unidling
+2020-10-17T00:17:21.267509+00:00 heroku[web.1]: State changed from down to starting
+2020-10-17T00:17:24.958564+00:00 heroku[web.1]: Starting process with command `python t8.py`
+2020-10-17T00:17:27.618023+00:00 app[web.1]: * Serving Flask app "t8" (lazy loading)
+2020-10-17T00:17:27.618057+00:00 app[web.1]: * Environment: production
+2020-10-17T00:17:27.618100+00:00 app[web.1]: WARNING: Do not use the development server in a production environment.
+2020-10-17T00:17:27.618170+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-17T00:17:27.618228+00:00 app[web.1]: * Debug mode: off
+2020-10-17T00:17:27.633093+00:00 app[web.1]: * Running on http://0.0.0.0:38972/ (Press CTRL+C to quit)
+2020-10-17T00:17:28.397269+00:00 heroku[web.1]: State changed from starting to up
+2020-10-17T00:17:30.312336+00:00 app[web.1]: 10.52.10.57 - - [17/Oct/2020 00:17:30] "GET / HTTP/1.1" 200 -
+2020-10-17T00:17:30.319210+00:00 heroku[router]: at=info method=GET path="/" host=ac03si2b.herokuapp.com request_id=72679eb1-5a0d-469b-9c4a-073e1de0c1e9 fwd="66.249.88.155" dyno=web.1 connect=1ms service=5ms status=200 bytes=566 protocol=https
+2020-10-17T00:52:52.047966+00:00 heroku[web.1]: Idling
+2020-10-17T00:52:52.049805+00:00 heroku[web.1]: State changed from up to down
+2020-10-17T00:52:53.038064+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2020-10-17T00:52:53.131382+00:00 heroku[web.1]: Process exited with status 143
+2020-10-23T23:11:31.941254+00:00 heroku[web.1]: Unidling
+2020-10-23T23:11:31.954143+00:00 heroku[web.1]: State changed from down to starting
+2020-10-23T23:11:35.472588+00:00 heroku[web.1]: Starting process with command `python t8.py`
+2020-10-23T23:11:37.814511+00:00 app[web.1]: * Serving Flask app "t8" (lazy loading)
+2020-10-23T23:11:37.814582+00:00 app[web.1]: * Environment: production
+2020-10-23T23:11:37.814691+00:00 app[web.1]: WARNING: Do not use the development server in a production environment.
+2020-10-23T23:11:37.814795+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-23T23:11:37.814870+00:00 app[web.1]: * Debug mode: off
+2020-10-23T23:11:37.828040+00:00 app[web.1]: * Running on http://0.0.0.0:57481/ (Press CTRL+C to quit)
+2020-10-23T23:11:38.338474+00:00 heroku[web.1]: State changed from starting to up
+2020-10-23T23:11:39.030236+00:00 heroku[router]: at=info method=GET path="/" host=ac03si2b.herokuapp.com request_id=e62e4a80-ee1e-4c7f-b5cb-cd64f2d38f0c fwd="66.249.88.208" dyno=web.1 connect=0ms service=16ms status=200 bytes=566 protocol=https
+2020-10-23T23:11:39.034108+00:00 app[web.1]: 10.29.86.227 - - [23/Oct/2020 23:11:39] "GET / HTTP/1.1" 200 -
+2020-10-23T23:11:40.290806+00:00 app[web.1]: 10.16.178.50 - - [23/Oct/2020 23:11:40] "GET / HTTP/1.1" 200 -
+2020-10-23T23:11:40.292404+00:00 heroku[router]: at=info method=GET path="/" host=ac03si2b.herokuapp.com request_id=782bc50a-4aff-4a8c-9239-8303b9d6c526 fwd="66.249.83.61" dyno=web.1 connect=0ms service=5ms status=200 bytes=566 protocol=https
+2020-10-23T23:12:17.422277+00:00 app[web.1]: 10.52.12.238 - - [23/Oct/2020 23:12:17] "GET / HTTP/1.1" 200 -
+2020-10-23T23:12:17.423540+00:00 heroku[router]: at=info method=GET path="/" host=ac03si2b.herokuapp.com request_id=7e81105d-02aa-44b2-a5f4-3a0cc33e0cdc fwd="45.70.224.104" dyno=web.1 connect=0ms service=5ms status=200 bytes=566 protocol=https
+2020-10-23T23:12:17.821268+00:00 app[web.1]: 10.52.12.238 - - [23/Oct/2020 23:12:17] "GET /favicon.ico HTTP/1.1" 404 -
+2020-10-23T23:12:17.822327+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=ac03si2b.herokuapp.com request_id=d8fab2e0-5017-479f-b2eb-b107d3168504 fwd="45.70.224.104" dyno=web.1 connect=0ms service=20ms status=404 bytes=379 protocol=https
+2020-10-23T23:17:44.324686+00:00 heroku[router]: at=info method=GET path="/" host=ac03si2b.herokuapp.com request_id=2f7a2ae9-3c9a-4c35-9cd1-40fd8a8fa1b4 fwd="45.70.224.104" dyno=web.1 connect=1ms service=9ms status=200 bytes=566 protocol=https
+2020-10-23T23:17:44.328285+00:00 app[web.1]: 10.93.170.169 - - [23/Oct/2020 23:17:44] "GET / HTTP/1.1" 200 -
